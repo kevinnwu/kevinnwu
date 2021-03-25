@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kevin
+- 👀 I’m interested in Robot, AI, Swarm Robot, Path Finder
+- 🌱 I’m currently learning Python
+- 📫 How to reach me kevin20021995@gmail.com
